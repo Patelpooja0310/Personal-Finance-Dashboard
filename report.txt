@@ -1,0 +1,7 @@
+
+Business Report
+-----------------------
+Total Sales: 223000
+Total Expenses: 134000
+Total Profit: 89000
+Average Sales: 18583
